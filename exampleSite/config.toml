@@ -1,4 +1,4 @@
-baseURL = "https://ixsanlabs.netlify.com"
+baseURL = "https://ixsanlabs.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
